@@ -1,0 +1,4 @@
+
+POLICY_LR = 3e-4
+VALUE_LR = 1e-4
+GAMMA = 0.99
