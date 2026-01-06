@@ -92,4 +92,3 @@ This repository is released under the terms in the `LICENSE` file.
 
 ---
 
-If you want, I can add a short example showing how to evaluate a trained policy or add a simple unit test that runs one episode in CI — should I add that?
