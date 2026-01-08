@@ -34,7 +34,7 @@ Recommended: use a virtual environment (venv) and Python 3.8+.
 1. Clone the repo and enter the directory:
 
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/shaheennabi/Policy-Gradient-Reinforce-with-Baseline>
    cd Policy-Gradient-Reinforce-with-Baseline
    ```
 
